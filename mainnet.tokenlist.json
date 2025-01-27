@@ -174,7 +174,7 @@
       "name": "CypheriumCommunityDrivenWrappedCPH",
       "symbol": "wCPH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/CypherTroopers/CommunityBridge/refs/heads/main/newfrontend/public/favicon-96x96.ico"
+      "logoURI": "https://raw.githubusercontent.com/CypherTroopers/CommunityBridge/main/newfrontend/public/favicon-96x96.png"
     }
   ]
 }
