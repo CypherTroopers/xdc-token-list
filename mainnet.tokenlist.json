@@ -167,6 +167,14 @@
       "decimals": 18,
       "symbol": "BBB",
       "name": "Beny Bad Boy"
+    },
+    {
+      "chainId": 50,
+      "address": "0xe084FFE165fBfbD376f5b3046B56FF4F00fDf73f",
+      "name": "CypheriumCommunityDrivenWrappedCPH",
+      "symbol": "wCPH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/CypherTroopers/CommunityBridge/refs/heads/main/newfrontend/public/favicon-96x96.ico"
     }
   ]
 }
