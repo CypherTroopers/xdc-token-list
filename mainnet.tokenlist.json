@@ -171,7 +171,7 @@
     {
       "chainId": 50,
       "address": "0xe084FFE165fBfbD376f5b3046B56FF4F00fDf73f",
-      "name": "CypheriumCommunityDrivenWrappedCPH",
+      "name": "CommunityWrappedCPH",
       "symbol": "wCPH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/CypherTroopers/xdc-token-list/master/assets/0xe084ffe165fbfbd376f5b3046b56ff4f00fdf73f/logo.png"
